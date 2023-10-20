@@ -4,7 +4,7 @@ by Jake Lipscomb
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 
 ## Screenshots
-![BookSearchSS](client\public\book-search-engineSS.png)
+![BookSearchSS](/client/public/book-search-engineSS.png)
 
 ## Table of Contents
 - [Description](#description)
